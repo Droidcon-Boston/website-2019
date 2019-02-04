@@ -1,6 +1,6 @@
 # Droidcon-Multiverse 2019
 
-At Droidcon Boston 2019, we'll be hosting lightening talks, panels, and Q&A with their very own track from 3pm - 6pm in The Multiverse Room on Day 1 and Day 2! This is a fantastic opportunity to hear about alternative topics, ask open questions, and maybe even present your own view on something relevant.
+At Droidcon Boston 2019, we'll be hosting lightning talks, panels, and Q&A with their very own track from 3pm - 6pm in The Multiverse Room on Day 1 and Day 2! This is a fantastic opportunity to hear about alternative topics, ask open questions, and maybe even present your own view on something relevant.
 
 [Sign up using this Form here.](https://goo.gl/forms/C3N33rHW8tvjNkKI2)
 
@@ -14,7 +14,7 @@ At Droidcon Boston 2019, we'll be hosting lightening talks, panels, and Q&A with
 
 **Format:**
  - 20 minutes per presenter
- - first 10min, lightening talk
+ - first 10min, lightning talk
  - second 10mins, group Q&A
  - general topic categories TBD but open for anything useful
 
